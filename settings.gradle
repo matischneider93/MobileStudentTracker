@@ -1,0 +1,2 @@
+rootProject.name = "MobileAppStudentTracker"
+include ':app'
